@@ -1,8 +1,7 @@
-import os
-archivo = open("prueba.txt", "w")
-archivo.write("Hola Mundo\nQue nota\nCiao")
-archivo.close()
-
+# import os
+# archivo = open("prueba.txt", "w")
+# archivo.write("Hola Mundo\nQue nota\nCiao")
+# archivo.close()
 
 # os.remove("prueba.txt")
 
